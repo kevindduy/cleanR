@@ -1,0 +1,11 @@
+Package: cleanR
+Type: Package
+Title: A package for cleaning imported datasets in CSV format
+Version: 0.1.0
+Author: Kevin Duy <kevindduy@yahoo.com>
+Maintainer: Kevin Duy <kevindduy@yahoo.com>
+Description: The cleanR package provides a set of functions for cleaning and tidying up imported datasets in CSV format. It aims to remove missing values, convert data types, and handle duplicate rows and columns. This way, data analysis can be completed in a much smoother and quicker fashion. \
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Dependencies: dplyr, tidyr, lubridate, and stringr 

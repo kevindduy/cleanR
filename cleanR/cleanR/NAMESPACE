@@ -1,0 +1,15 @@
+export(
+  No_comma,
+  BatmanTheme,
+  replaceMe,
+  removeCol,
+  dateMe,
+  distinctMe,
+  cleanR-package
+)
+
+import(
+  dplyr,
+  lubridate,
+  stringr
+)
